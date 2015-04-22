@@ -11,7 +11,7 @@
     <Button
         android:layout_height="wrap_content"
         android:layout_width="wrap_content"
-        android:text="Push Me"
+        android:text="Hug Me"
         android:onClick="onClick"/>
 
     <TextView android:text="lolololololollololol." android:layout_width="wrap_content"
