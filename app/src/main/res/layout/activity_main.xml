@@ -14,4 +14,8 @@
         android:text="Push Me"
         android:onClick="onClick"/>
 
+    <TextView android:text="Don't hug me. I'm scared." android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
 </LinearLayout>
+
